@@ -1,0 +1,39 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Mustang';
+  src: url('../Mustang.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LongShot';
+  src: url('../Long_Shot.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AeroSpace';
+  src: url('../Aerospace.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Robus';
+  src: url('../Robus.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Nitro';
+  src: url('../Nitro.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+*{
+  box-sizing: border-box;
+
+}
+body{
+  background: black;
+  color: rgb(255, 255, 255);
+}
